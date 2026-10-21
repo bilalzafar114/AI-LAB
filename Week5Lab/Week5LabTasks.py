@@ -73,7 +73,7 @@ print(f"leaf:{leaf}")
 #==============================================================================
 #Task3 Changing branch order
 
-#1-Alpha beta pruning
+#1-Minimax 
 import math
 leaf = 0
 # Maximizing player can get
